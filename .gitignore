@@ -45,7 +45,6 @@ htmlcov/
 
 # Distribution
 *.spec
-dist/
 
 # Build artifacts - PyInstaller extracted files
 BIM_ROV_System_v15.exe_extracted/
